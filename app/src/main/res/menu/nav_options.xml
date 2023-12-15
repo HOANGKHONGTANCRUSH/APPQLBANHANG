@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_Fast_Food"
+        android:icon="@drawable/soup"
+        android:title="Food"
+        app:cnb_textColor="@color/black"
+        app:cnb_iconColor="@color/black"
+        app:cnb_backgroundColor="#fff"/>
+    <item
+        android:id="@+id/nav_Water"
+        android:icon="@drawable/coffee"
+        android:title="Water"
+        app:cnb_textColor="@color/black"
+        app:cnb_iconColor="@color/black"
+        app:cnb_backgroundColor="#fff"/>
+    <item
+        android:id="@+id/nav_Combo"
+        android:icon="@drawable/milk_tea"
+        app:cnb_textColor="@color/black"
+        app:cnb_iconColor="@color/black"
+        android:title="Combo"
+        app:cnb_backgroundColor="#fff"/>
+
+</menu>

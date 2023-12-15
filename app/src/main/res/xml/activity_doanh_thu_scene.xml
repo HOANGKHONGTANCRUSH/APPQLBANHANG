@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MotionScene 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:motion="http://schemas.android.com/apk/res-auto">
+
+    <Transition
+        motion:constraintSetEnd="@+id/end"
+        motion:constraintSetStart="@id/start"
+        motion:autoTransition="animateToEnd"
+        motion:duration="1000">
+       <KeyFrameSet>
+       </KeyFrameSet>
+    </Transition>
+
+    <ConstraintSet android:id="@+id/start">
+        <Constraint
+            android:layout_marginEnd="10dp"
+            android:layout_height="wrap_content"
+            motion:layout_constraintEnd_toEndOf="parent"
+            android:layout_width="wrap_content"
+            android:id="@+id/tvLastYear"
+            motion:layout_constraintBottom_toBottomOf="@+id/prLastYear"
+            motion:layout_constraintTop_toTopOf="@+id/prLastYear" />
+        <Constraint
+            android:layout_marginEnd="10dp"
+            android:layout_height="wrap_content"
+            motion:layout_constraintEnd_toEndOf="parent"
+            android:layout_width="wrap_content"
+            android:id="@+id/tvYear"
+            motion:layout_editor_absoluteY="293dp"
+            android:layout_marginRight="16dp"
+            motion:layout_constraintTop_toTopOf="@+id/prYear"
+            motion:layout_constraintBottom_toBottomOf="@+id/prYear" />
+    </ConstraintSet>
+
+    <ConstraintSet android:id="@+id/end">
+        <Constraint
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            motion:layout_constraintTop_toBottomOf="@+id/tvPriceDay"
+            motion:layout_constraintStart_toStartOf="@+id/tvPriceDay"
+            android:layout_marginTop="8dp"
+            android:id="@+id/prDate"
+            motion:layout_constraintEnd_toStartOf="@+id/tvDay"
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="273dp" />
+        <Constraint
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            motion:layout_constraintTop_toBottomOf="@+id/prDate"
+            motion:layout_constraintStart_toStartOf="@+id/prDate"
+            android:layout_marginTop="8dp"
+            android:id="@+id/prLastDate"
+            motion:layout_constraintEnd_toStartOf="@+id/tvLastDay"
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="273dp" />
+        <Constraint
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            motion:layout_constraintTop_toBottomOf="@+id/tvPriceMonth"
+            motion:layout_constraintStart_toStartOf="@+id/tvPriceMonth"
+            android:layout_marginTop="8dp"
+            android:id="@+id/prMonth"
+            motion:layout_constraintEnd_toStartOf="@+id/tvMonth"
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="273dp" />
+        <Constraint
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            motion:layout_constraintTop_toBottomOf="@+id/prMonth"
+            motion:layout_constraintStart_toStartOf="@+id/prMonth"
+            android:layout_marginTop="8dp"
+            android:id="@+id/prLastMonth"
+            motion:layout_constraintEnd_toStartOf="@+id/tvLastMonth"
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="273dp" />
+        <Constraint
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            motion:layout_constraintTop_toBottomOf="@+id/tvPriceYear"
+            motion:layout_constraintStart_toStartOf="@+id/tvPriceYear"
+            android:layout_marginTop="8dp"
+            android:id="@+id/prYear"
+            motion:layout_constraintEnd_toStartOf="@+id/tvLastYear"
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="273dp" />
+        <Constraint
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            motion:layout_constraintTop_toBottomOf="@+id/prYear"
+            motion:layout_constraintStart_toStartOf="@+id/prYear"
+            android:layout_marginTop="8dp"
+            android:id="@+id/prLastYear"
+            motion:layout_constraintEnd_toStartOf="@+id/tvYear"
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="273dp" />
+        <Constraint
+            android:layout_marginEnd="10dp"
+            android:layout_height="wrap_content"
+            motion:layout_constraintEnd_toEndOf="parent"
+            android:layout_width="wrap_content"
+            android:id="@+id/tvLastYear"
+            android:layout_marginRight="8dp"
+            motion:layout_constraintTop_toTopOf="@+id/prLastYear"
+            motion:layout_constraintBottom_toBottomOf="@+id/prLastYear"
+            motion:layout_constraintStart_toEndOf="@+id/prLastYear"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="10dp" />
+        <Constraint
+            android:layout_marginEnd="10dp"
+            android:layout_height="wrap_content"
+            motion:layout_constraintEnd_toEndOf="parent"
+            android:layout_width="wrap_content"
+            android:id="@+id/tvYear"
+            motion:layout_constraintTop_toTopOf="@+id/prYear"
+            android:layout_marginRight="28dp"
+            motion:layout_constraintBottom_toBottomOf="@+id/prYear"
+            motion:layout_constraintStart_toEndOf="@+id/prYear"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="10dp" />
+        <Constraint
+            motion:layout_constraintEnd_toEndOf="parent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            motion:layout_constraintBottom_toBottomOf="@+id/prLastMonth"
+            android:layout_marginEnd="10dp"
+            motion:layout_constraintTop_toTopOf="@+id/prLastMonth"
+            android:id="@+id/tvLastMonth"
+            motion:layout_constraintStart_toEndOf="@+id/prLastMonth"
+            android:layout_marginStart="0dp"
+            android:layout_marginLeft="10dp" />
+        <Constraint
+            motion:layout_constraintEnd_toEndOf="parent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            motion:layout_constraintBottom_toBottomOf="@+id/prMonth"
+            android:layout_marginEnd="10dp"
+            motion:layout_constraintTop_toTopOf="@+id/prMonth"
+            android:id="@+id/tvMonth"
+            motion:layout_constraintStart_toEndOf="@+id/prMonth"
+            android:layout_marginStart="0dp"
+            android:layout_marginLeft="10dp" />
+        <Constraint
+            motion:layout_constraintEnd_toEndOf="parent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            motion:layout_constraintBottom_toBottomOf="@+id/prLastDate"
+            android:layout_marginEnd="10dp"
+            motion:layout_constraintTop_toTopOf="@+id/prLastDate"
+            android:id="@+id/tvLastDay"
+            motion:layout_constraintStart_toEndOf="@+id/prLastDate"
+            android:layout_marginStart="0dp"
+            android:layout_marginLeft="10dp" />
+        <Constraint
+            motion:layout_constraintEnd_toEndOf="parent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            motion:layout_constraintBottom_toBottomOf="@+id/prDate"
+            android:layout_marginEnd="10dp"
+            motion:layout_constraintTop_toTopOf="@+id/prDate"
+            android:id="@+id/tvDay"
+            motion:layout_constraintStart_toEndOf="@+id/prDate"
+            android:layout_marginStart="0dp"
+            android:layout_marginLeft="10dp" />
+    </ConstraintSet>
+</MotionScene>

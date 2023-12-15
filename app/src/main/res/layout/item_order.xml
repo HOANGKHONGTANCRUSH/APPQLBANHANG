@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:layout_marginTop="10dp"
+    android:layout_marginBottom="10dp"
+    android:layout_marginEnd="20dp"
+    android:layout_marginStart="20dp"
+    android:foreground="?android:selectableItemBackground"
+    android:clickable="true"
+    android:background="@drawable/draw_order">
+
+    <TextView
+        android:id="@+id/tvFoodName"
+        android:layout_width="282dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="34dp"
+        android:layout_marginTop="9dp"
+        android:layout_marginEnd="13dp"
+        android:layout_toStartOf="@+id/chkOrder"
+        android:maxLines="2"
+        android:text="Hamburger"
+        android:textColor="@color/black"
+        android:textSize="17dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvBoardNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="34dp"
+        android:layout_marginBottom="9dp"
+        android:text="Bàn số 1"
+        android:textColor="@color/xam"
+        android:textSize="17dp"
+        android:textStyle="bold" />
+
+    <CheckBox
+        android:id="@+id/chkOrder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginEnd="10dp"
+        android:buttonTint="@color/yelow_backgroud"
+        android:text="" />
+
+</RelativeLayout>

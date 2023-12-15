@@ -1,0 +1,133 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/drawable/custom_button_call.xml" value="0.2203125" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/drawable/draw_background_staff.xml" value="0.2203125" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/drawable/draw_bottom_food.xml" value="0.2203125" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/drawable/draw_button_add_staff.xml" value="0.2203125" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/drawable/draw_button_cancel_staff.xml" value="0.2203125" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/drawable/draw_button_huy.xml" value="0.2203125" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/drawable/draw_button_thanhtoan.xml" value="0.2203125" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/drawable/draw_cardview_option.xml" value="0.2203125" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/drawable/draw_click_bottom.xml" value="0.2203125" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/drawable/draw_enter_password.xml" value="0.2203125" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/drawable/draw_item_bill.xml" value="0.2203125" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/drawable/draw_item_food.xml" value="0.2203125" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/drawable/draw_item_table.xml" value="0.2203125" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/drawable/draw_main2.xml" value="0.2203125" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/drawable/draw_order.xml" value="0.2203125" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/drawable/food_background.xml" value="0.1125" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/drawable/menu_bottom_food.xml" value="0.2203125" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/drawable/select_bottom.xml" value="0.2203125" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/drawable/select_bottom_food.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/drawable/select_bottom_option.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/drawable/select_bottom_table.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/layout/activity_add_staff.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/layout/activity_doanh_thu.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/layout/activity_food_board.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/layout/activity_hoadon.xml" value="0.19927536231884058" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/layout/activity_info_hoa_don.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/layout/activity_main2.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/layout/activity_staff.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/layout/dialog_change_password.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/layout/dialog_enter_password.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/layout/dialog_suatable.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/layout/dialog_themtable.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/layout/dialog_update_item.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/layout/dialong_add_staff.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/layout/fragment_combo.xml" value="0.13903985507246377" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/layout/fragment_fast_food.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/layout/fragment_food.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/layout/fragment_food_board.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/layout/fragment_option.xml" value="0.21" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/layout/fragment_order.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/layout/fragment_tablee.xml" value="0.14945652173913043" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/layout/fragment_water.xml" value="0.13903985507246377" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/layout/item_bill.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/layout/item_billinfo.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/layout/item_food.xml" value="0.5" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/layout/item_food_board1.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/layout/item_food_board2.xml" value="0.67" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/layout/item_order.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/layout/item_staff.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/layout/item_table.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/menu/bottommenu.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/menu/nav_menu.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/menu/nav_options.xml" value="0.15" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/mipmap-anydpi-v26/combo.xml" value="0.2203125" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.10572916666666667" />
+        <entry key="..\:/AndroidStudioProjects/VietHoang/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.10572916666666667" />
+        <entry key="..\:/VietHoang/app/src/main/res/layout/activity_main.xml" value="0.23007246376811594" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/DuAn1 - Copy/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.21481481481481482" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/DuAn1/app/src/main/res/drawable/combo_background.xml" value="0.21481481481481482" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/DuAn1/app/src/main/res/drawable/custom_button.xml" value="0.21481481481481482" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/DuAn1/app/src/main/res/drawable/draw_bottom_food.xml" value="0.21481481481481482" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/DuAn1/app/src/main/res/drawable/draw_cardview_option.xml" value="0.21481481481481482" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/DuAn1/app/src/main/res/drawable/draw_item_food.xml" value="0.21481481481481482" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/DuAn1/app/src/main/res/drawable/food_background.xml" value="0.21481481481481482" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/DuAn1/app/src/main/res/layout/activity_doanh_thu.xml" value="0.1578125" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/DuAn1/app/src/main/res/layout/activity_hoadon.xml" value="0.1578125" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/DuAn1/app/src/main/res/layout/dialog_update_item.xml" value="0.275" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/DuAn1/app/src/main/res/layout/dialong_add_item.xml" value="0.275" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/DuAn1/app/src/main/res/layout/fragment_fast_food.xml" value="0.17592592592592593" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/DuAn1/app/src/main/res/layout/fragment_option.xml" value="0.1578125" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/DuAn1/app/src/main/res/layout/fragment_water.xml" value="0.275" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/DuAn1/app/src/main/res/layout/item_bill.xml" value="0.1578125" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/DuAn1/app/src/main/res/layout/item_food.xml" value="0.14375" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/DuAn1/app/src/main/res/layout/item_table.xml" value="0.14010416666666667" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/DuAn1/app/src/main/res/layout/menu.xml" value="0.1578125" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/New folder/VietHoang/app/src/main/res/drawable/custom_button_call.xml" value="0.2755208333333333" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/New folder/VietHoang/app/src/main/res/drawable/draw_bottom_food.xml" value="0.2755208333333333" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/New folder/VietHoang/app/src/main/res/drawable/draw_item_food.xml" value="0.2755208333333333" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/New folder/VietHoang/app/src/main/res/layout/activity_hoadon.xml" value="0.1" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/New folder/VietHoang/app/src/main/res/layout/activity_staff.xml" value="0.1" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/New folder/VietHoang/app/src/main/res/layout/fragment_fast_food.xml" value="0.1" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/New folder/VietHoang/app/src/main/res/layout/item_food.xml" value="0.1" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/New folder/VietHoang/app/src/main/res/layout/item_staff.xml" value="0.264" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/Project 1/VietHoang/app/src/main/res/layout/activity_staff.xml" value="0.259375" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/Project 1/VietHoang/app/src/main/res/layout/dialog_enter_password.xml" value="0.264" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/Project 1/VietHoang/app/src/main/res/layout/dialog_suatable.xml" value="0.10925925925925926" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/Project 1/VietHoang/app/src/main/res/layout/dialong_add_item.xml" value="0.10925925925925926" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/Project 1/VietHoang/app/src/main/res/layout/dialong_add_staff.xml" value="0.1" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/Project 1/VietHoang/app/src/main/res/layout/fragment_fast_food.xml" value="0.259375" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/Project 1/VietHoang/app/src/main/res/layout/item_food.xml" value="0.1" />
+        <entry key="..\:/FPT Polytechnic/Semester 4/Project 1/VietHoang/app/src/main/res/layout/item_staff.xml" value="0.264" />
+        <entry key="..\:/androinangcao/VietHoang/app/src/main/res/drawable/custom_button.xml" value="0.2203125" />
+        <entry key="..\:/androinangcao/VietHoang/app/src/main/res/layout/activity_food_board.xml" value="0.1" />
+        <entry key="..\:/androinangcao/VietHoang/app/src/main/res/layout/activity_hoadon.xml" value="0.1" />
+        <entry key="..\:/androinangcao/VietHoang/app/src/main/res/layout/activity_hoadon2.xml" value="0.1" />
+        <entry key="..\:/androinangcao/VietHoang/app/src/main/res/layout/activity_info_hoa_don.xml" value="0.12" />
+        <entry key="..\:/androinangcao/VietHoang/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/androinangcao/VietHoang/app/src/main/res/layout/dialog_suatable.xml" value="0.121875" />
+        <entry key="..\:/androinangcao/VietHoang/app/src/main/res/layout/dialog_themtable.xml" value="0.18" />
+        <entry key="..\:/androinangcao/VietHoang/app/src/main/res/layout/fragment_food.xml" value="0.12" />
+        <entry key="..\:/androinangcao/VietHoang/app/src/main/res/layout/fragment_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/androinangcao/VietHoang/app/src/main/res/layout/fragment_table.xml" value="0.17" />
+        <entry key="..\:/androinangcao/VietHoang/app/src/main/res/layout/fragment_tablee.xml" value="0.22" />
+        <entry key="..\:/androinangcao/VietHoang/app/src/main/res/layout/item_billinfo.xml" value="0.20380434782608695" />
+        <entry key="..\:/androinangcao/VietHoang/app/src/main/res/layout/item_food.xml" value="0.20416666666666666" />
+        <entry key="..\:/androinangcao/VietHoang/app/src/main/res/layout/item_food_board1.xml" value="0.20380434782608695" />
+        <entry key="..\:/androinangcao/VietHoang/app/src/main/res/layout/item_food_board2.xml" value="0.20380434782608695" />
+        <entry key="..\:/androinangcao/VietHoang/app/src/main/res/layout/item_info.xml" value="0.20380434782608695" />
+        <entry key="..\:/androinangcao/VietHoang/app/src/main/res/layout/item_table.xml" value="0.2" />
+        <entry key="..\:/androinangcao/VietHoang/app/src/main/res/layout/menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/androinangcao/VietHoang/app/src/main/res/menu/nav_menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.7182940516273849" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

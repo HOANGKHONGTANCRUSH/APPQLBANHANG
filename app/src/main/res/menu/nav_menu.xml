@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/nav_Fast_Food"
+            android:icon="@drawable/select_bottom_table"
+            android:title="Table" />
+        <item
+            android:id="@+id/nav_Water"
+            android:icon="@drawable/select_bottom_food"
+            android:title="Food" />
+        <item
+            android:id="@+id/nav_order"
+            android:icon="@drawable/order"
+            android:title="Order" />
+        <item
+            android:id="@+id/nav_Combo"
+            android:icon="@drawable/select_bottom_option"
+            android:title="Option" />
+
+</menu>
+
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".fragment.FragmentFood"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:padding="15dp">
+
+    <com.ismaeldivita.chipnavigation.ChipNavigationBar
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:id="@+id/chipNavFood"
+        android:background="@drawable/draw_bottom_food"
+        app:cnb_unselectedColor="@color/black"
+        app:cnb_menuResource="@menu/nav_options" >
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@android:color/holo_red_dark"
+            android:text="Xoafood"
+            tools:layout_editor_absoluteX="337dp"
+            tools:layout_editor_absoluteY="6dp" />
+    </com.ismaeldivita.chipnavigation.ChipNavigationBar>
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/viewPagerFragmentFood"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"/>
+
+</LinearLayout>
